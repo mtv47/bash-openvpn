@@ -32,7 +32,7 @@ do
         "Basic Setup")
             bash basic.sh
             ;;
-        "Adding 2FA to SSH"
+        "Adding 2FA to SSH")
             bash 2fa.sh
             ;;
         "Installs for OpenVPN")
