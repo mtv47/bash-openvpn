@@ -1,4 +1,4 @@
-Script by mtv47 to set up a openvpn debian server with docker
+Script by mtv47 to set up a openvpn debian server
 
 ## Description
 Script menu that installs all the necessary packages for a simple openvpn server
