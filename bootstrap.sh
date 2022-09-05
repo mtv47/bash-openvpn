@@ -22,7 +22,7 @@ fi
 # Clones the repository
 git clone https://github.com/mtv47/bash-openvpn.git $HOME/bash-openvpn
 
-cd $HOME/bash-nuc
+cd $HOME/bash-openvpn
 
 clears
 bash init.sh
