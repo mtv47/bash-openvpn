@@ -13,7 +13,3 @@ echo "==========================================================================
 echo "Install OpenVPN"
 sudo apt update
 sudo apt install openvpn-as -y
-
-echo "================================================================================"
-echo "Setting up a password for the WebUI"
-sudo passwd openvpn
